@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dynatron Web API.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kGNGfbUHYPvQ8OAPr9ueguYv+O+kJ7OJoMm9yJ6CNd0=",
+  "Source": "Dynatron.Web.API",
+  "BasePath": "_content/Dynatron.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

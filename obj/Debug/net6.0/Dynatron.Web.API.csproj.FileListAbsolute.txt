@@ -1,0 +1,76 @@
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\appsettings.Development.json
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\appsettings.json
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Dynatron.Web.API.exe
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Dynatron.Web.API.deps.json
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Dynatron.Web.API.runtimeconfig.json
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Dynatron.Web.API.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Dynatron.Web.API.pdb
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\Daytron\Dynatron Web API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.csproj.AssemblyReference.cache
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.AssemblyInfoInputs.cache
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.AssemblyInfo.cs
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.csproj.CoreCompileInputs.cache
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\staticwebassets\msbuild.Dynatron.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\staticwebassets\msbuild.build.Dynatron.Web.API.props
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dynatron.Web.API.props
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dynatron.Web.API.props
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\scopedcss\bundle\Dynatron.Web.API.styles.css
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.csproj.CopyComplete
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.dll
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\refint\Dynatron.Web.API.dll
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.pdb
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\Dynatron.Web.API.genruntimeconfig.cache
+C:\Code\Daytron\Dynatron Web API\obj\Debug\net6.0\ref\Dynatron.Web.API.dll
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.csproj.AssemblyReference.cache
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.AssemblyInfoInputs.cache
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.AssemblyInfo.cs
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.csproj.CoreCompileInputs.cache
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.dll
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\refint\Dynatron.Web.API.dll
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.pdb
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\appsettings.json
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Dynatron.Web.API.exe
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Dynatron.Web.API.deps.json
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Dynatron.Web.API.runtimeconfig.json
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Dynatron.Web.API.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Dynatron.Web.API.pdb
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\Dynatron\Dynatron.Web.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.Dynatron.Web.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Dynatron.Web.API.props
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dynatron.Web.API.props
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dynatron.Web.API.props
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\scopedcss\bundle\Dynatron.Web.API.styles.css
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.csproj.CopyComplete
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\Dynatron.Web.API.genruntimeconfig.cache
+C:\Code\Dynatron\Dynatron.Web.API\obj\Debug\net6.0\ref\Dynatron.Web.API.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynatron.Web.API", "Dynatron.Web.API.csproj", "{526BD87E-B4E5-4F34-8D79-9CA460EF03BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526BD87E-B4E5-4F34-8D79-9CA460EF03BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526BD87E-B4E5-4F34-8D79-9CA460EF03BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526BD87E-B4E5-4F34-8D79-9CA460EF03BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526BD87E-B4E5-4F34-8D79-9CA460EF03BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D480648-309D-48F3-9836-7922ACB43DE1}
+	EndGlobalSection
+EndGlobal
